@@ -20,3 +20,4 @@
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/zion6570/NLP_2023/blob/main/Untitled0.ipynb) |
+| 2 | Five Types of Data 🐾 | [number, string, list, tuple, dictionary](https://github.com/zion6570/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
