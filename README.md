@@ -22,4 +22,5 @@
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/zion6570/NLP_2023/blob/main/Untitled0.ipynb) |
 | 2 | Five Types of Data 🐾 | [number, string, list, tuple, dictionary](https://github.com/zion6570/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
 | 3 | Indexing_Slicing | [:, forward, backforward, link +, repeat *, length len()](https://github.com/zion6570/NLP_2023/blob/main/3_Indexing_Slicing.ipynb) |
-| 4 | Statements | [if ~:](https://github.com/zion6570/NLP_2023/blob/main/4_1_IfStatement.ipynb) |, | [for ~:](https://github.com/zion6570/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
+| 4 | Statements | [if ~:](https://github.com/zion6570/NLP_2023/blob/main/4_1_IfStatement.ipynb) |
+| 4-1 | Statements | [for ~:](https://github.com/zion6570/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
