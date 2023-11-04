@@ -1,0 +1,62 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNaGK5L40zeHzzi8oSMj32t",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/zion6570/NLP_2023/blob/main/%EC%82%AC%EC%A0%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0(%7B%7D)ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 5,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "HXKCZO1Bquf6",
+        "outputId": "5ab96555-a319-4318-b369-9b44cfa399f9"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "1\n",
+            "{'a': 1, 'b': 2, 'c': 3, 'd': 4}\n",
+            "{'a': 1, 'b': 7, 'c': 3, 'd': 4}\n",
+            "4\n"
+          ]
+        }
+      ],
+      "source": [
+        "dict1 = {'a': 1, 'b': 2, 'c': 3}\n",
+        "print(dict1['a'])\n",
+        "dict1['d'] = 4\n",
+        "print(dict1)\n",
+        "dict1['b'] = 7\n",
+        "print(dict1)\n",
+        "print(len(dict1))"
+      ]
+    }
+  ]
+}
